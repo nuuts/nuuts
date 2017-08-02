@@ -1,9 +1,9 @@
-// Copyright (c) 2011-2016 The Bitcoin Core developers
+// Copyright (c) 2011-2016 The SaruulCoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_QT_BANTABLEMODEL_H
-#define BITCOIN_QT_BANTABLEMODEL_H
+#ifndef SaruulCoin_QT_BANTABLEMODEL_H
+#define SaruulCoin_QT_BANTABLEMODEL_H
 
 #include "net.h"
 
@@ -70,4 +70,4 @@ private:
     std::unique_ptr<BanTablePriv> priv;
 };
 
-#endif // BITCOIN_QT_BANTABLEMODEL_H
+#endif // SaruulCoin_QT_BANTABLEMODEL_H

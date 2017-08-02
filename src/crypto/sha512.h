@@ -1,9 +1,9 @@
-// Copyright (c) 2014-2016 The Bitcoin Core developers
+// Copyright (c) 2014-2016 The SaruulCoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_CRYPTO_SHA512_H
-#define BITCOIN_CRYPTO_SHA512_H
+#ifndef SaruulCoin_CRYPTO_SHA512_H
+#define SaruulCoin_CRYPTO_SHA512_H
 
 #include <stdint.h>
 #include <stdlib.h>
@@ -25,4 +25,4 @@ public:
     CSHA512& Reset();
 };
 
-#endif // BITCOIN_CRYPTO_SHA512_H
+#endif // SaruulCoin_CRYPTO_SHA512_H

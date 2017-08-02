@@ -1,9 +1,9 @@
-// Copyright (c) 2014 The Bitcoin Core developers
+// Copyright (c) 2014 The SaruulCoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_QT_NETWORKSTYLE_H
-#define BITCOIN_QT_NETWORKSTYLE_H
+#ifndef SaruulCoin_QT_NETWORKSTYLE_H
+#define SaruulCoin_QT_NETWORKSTYLE_H
 
 #include <QIcon>
 #include <QPixmap>
@@ -30,4 +30,4 @@ private:
     QString titleAddText;
 };
 
-#endif // BITCOIN_QT_NETWORKSTYLE_H
+#endif // SaruulCoin_QT_NETWORKSTYLE_H

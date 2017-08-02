@@ -64,10 +64,10 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>BitcoinGUI</name>
+    <name>SaruulCoinGUI</name>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin Core</translation>
+        <source>SaruulCoin</source>
+        <translation>SaruulCoin Core</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -234,14 +234,14 @@
     </message>
     </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>SaruulCoin-core</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>SaruulCoin Core</source>
+        <translation>SaruulCoin Core</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
-        <translation>bitcoin-core</translation>
+        <translation>SaruulCoin-core</translation>
     </message>
     <message>
         <source>Information</source>
